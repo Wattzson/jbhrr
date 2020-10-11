@@ -18,7 +18,7 @@ a {
 }
 
 a:hover {
-  color: #3291e6;
+  color: #A67F53;
   text-decoration: none;
 }
 
@@ -97,7 +97,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top i:hover {
-  background: #1c84e3;
+  background: #A67F53;
   color: #fff;
 }
 
@@ -186,7 +186,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 80px;
 }
 
 @media (max-width: 992px) {
@@ -1281,7 +1281,7 @@ section {
   position: absolute;
   right: 0;
   left: 20px;
-  color: #76b5ee;
+  color: #593C1B;
 }
 
 .faq .faq-list .icon-show, .faq .faq-list .icon-close {
@@ -1361,7 +1361,7 @@ section {
 }
 
 .testimonials .testimonial-item .quote-icon-left, .testimonials .testimonial-item .quote-icon-right {
-  color: #badaf7;
+  color: #A67F53;
   font-size: 26px;
 }
 
@@ -1561,7 +1561,11 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #1c84e3;
+  background: #A67F53;
+}
+
+.form-control:focus {
+  border-color: #593C1B;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1637,7 +1641,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #1c84e3;
+  color: #A67F53;
   font-size: 18px;
   line-height: 1;
 }
@@ -1708,7 +1712,7 @@ section {
 }
 
 #footer .footer-newsletter form input[type="submit"]:hover {
-  background: #1c84e3;
+  background: #A67F53;
 }
 
 #footer .credits {
@@ -1733,7 +1737,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #1c84e3;
+  background: #A67F53;
   color: #fff;
   text-decoration: none;
 }
