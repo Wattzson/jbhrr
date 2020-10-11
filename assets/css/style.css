@@ -1446,7 +1446,6 @@ section {
   float: left;
   width: 44px;
   height: 44px;
-  background: #d6e9fa;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1466,7 +1465,7 @@ section {
   padding: 0 0 0 60px;
   margin-bottom: 0;
   font-size: 14px;
-  color: #4b7dab;
+  color: #593C1B;
 }
 
 .contact .info .email, .contact .info .phone {
@@ -1596,7 +1595,7 @@ section {
 #footer {
   color: #444444;
   font-size: 14px;
-  background: #f1f7fd;
+  background: #dfcab3;
 }
 
 #footer .footer-top {
